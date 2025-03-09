@@ -1,2 +1,2 @@
 # GameShop
-![My Image](Screenshot.png)
+![My Image](Screenshot2.png)
